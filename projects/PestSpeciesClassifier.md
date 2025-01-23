@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/beetleImage.jpeg
 title: "Pest Species Classifier"
 date: 2015
 published: true
