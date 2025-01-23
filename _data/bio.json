@@ -1,43 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Lenox Covington",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/lencov.png",
+    "email": "lenox@hawaii.edu",
+    "phone": "808-779-9698",
+    "website": "https://lencov.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "lencov", "url": "http://github.com/lencov" },
+      { "network": "linkedin", "username": "lenox-covington", "url": "https://www.linkedin.com/in/lenox-covington/" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/lenox.covington" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Startups" },
+    { "name": "Machine Learning" },
+    { "name": "Cooking" },
+    { "name": "Traveling" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C/C++", "Java", "Typescript", ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets",
+      "keywords": [ "Azure DevOps", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,28 +44,31 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Bayze",
+      "position": "Software Engineer Intern",
+      "website": "https://bayze.com/",
+      "startDate": "2024-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Backend",
+      "highlights": []
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "USDA Agricultural Research Service",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-3",
+      "summary": "Built image processing software to identify pest species in near-inrared hyperspectral images",
+      "highlights": []
+    },
+    {
+      "company": "Calvin Shindo Student Venture Fund",
+      "position": "Co-Director",
+      "website": "",
+      "startDate": "2023-08-21",
+      "endDate": "2024-12-15",
+      "summary": "Supporting and investing in University of Hawaii affiliated startups",
+      "highlights": []
     }
   ],
   "volunteer": [
