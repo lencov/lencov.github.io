@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/beetleImage.jpeg
 title: "Pest Species Classifier"
-date: 2015
+date: 2024
 published: true
 labels:
   - Machine Learning
