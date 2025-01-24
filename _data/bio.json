@@ -16,9 +16,7 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Startups" },
-    { "name": "Machine Learning" },
-    { "name": "Cooking" },
-    { "name": "Traveling" }
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
