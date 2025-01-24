@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "lencov", "url": "http://github.com/lencov" },
-      { "network": "linkedin", "username": "lenox-covington", "url": "https://www.linkedin.com/in/lenox-covington/" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/lenox.covington" }
+      { "network": "linkedin", "username": "lenox-covington", "url": "https://www.linkedin.com/in/lenox-covington/" }
     ]
   },
   "interests": [
