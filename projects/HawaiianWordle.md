@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/beetleImage.jpeg
+image: img/HawaiianWordle.jpeg
 title: "Hawaiian Wordle"
 date: 2023
 published: true
