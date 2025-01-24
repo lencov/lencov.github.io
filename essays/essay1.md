@@ -1,54 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Hawaii’s Emerging Tech Landscape"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-02-06
 published: true
 labels:
-  - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+Hawaii, often associated with its tourism industry and natural beauty, has historically lacked a significant presence in the technology sector. However, a growing startup ecosystem is beginning to change this landscape. While the state remains geographically distant from major tech hubs, the recent shift to remote work has spurred an influx of professionals from larger tech companies, fostering new opportunities and enhancing the local tech community.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+My involvement in Hawaii’s tech ecosystem began through the Calvin Shindo Student Venture Fund, which introduced me to a network of venture capitalists, accelerators, and startups focused on developing innovative solutions locally. This experience revealed an unexpectedly vibrant startup scene in Hawaii, one that is steadily growing despite the challenges of competing with larger markets. Local initiatives, combined with events such as Honolulu Tech Week and the East Meets West conference, have created platforms for collaboration between startups, investors, and professionals from Asia, the mainland United States, and beyond.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+I secured my first software engineering internship at a Hawaii-based startup, which allowed me to make my first step into the industry and grow both techically and professionally. Being part of a startup meant exposure to various aspects of product development, from early design decisions to implementation. Startups like these play a vital role in diversifying Hawaii’s economy, moving it beyond its reliance on tourism.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Despite the progress, the tech industry in Hawaii faces hurdles. The state’s distance from larger markets makes it difficult for local companies to attract top talent or compete directly with established firms. While employment opportunities in tech outside of startups remain limited, there is growing momentum to develop the industry further.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Hawaii’s tech journey is still in its early stages, but the combination of local talent, entrepreneurial spirit, and increasing global connections offers promising potential for the future. As the industry evolves, it holds the promise of creating opportunities that enable individuals to build meaningful careers without leaving the islands.
