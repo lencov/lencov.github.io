@@ -25,7 +25,7 @@
     },
     {
       "name": "Toolsets",
-      "keywords": [ "Azure DevOps", "Git/GitHub", "g++" ]
+      "keywords": [ "Azure DevOps", "Git/GitHub"]
     }
   ],
   "education": [
