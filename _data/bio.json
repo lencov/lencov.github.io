@@ -35,7 +35,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
-      "studyType": "B.A.",
+      "studyType": "Bachelors",
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
@@ -49,8 +49,13 @@
       "website": "https://bayze.com/",
       "startDate": "2024-04-01",
       "endDate": "Present",
-      "summary": "Backend",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "Designed, developed, and maintained RESTful APIs using TypeScript to power key features of a mobile app, including location search, user interactions, and business data management",
+        "Integrated third-party APIs (Google Places, PositionStack) and databases (MongoDB, Neo4j) to provide robust location-based services and personalized recommendations",
+        "Optimized app performance by implementing caching mechanisms with AWS S3, reducing API call volume and improving load times",
+        "Contributed to the full software development lifecycle, participating in Agile methodologies (daily stand-ups, sprint planning, retrospectives) and ensuring code quality through testing (Jest)"
+      ]
     },
     {
       "company": "USDA Agricultural Research Service",
@@ -58,8 +63,13 @@
       "website": "",
       "startDate": "2024-06-01",
       "endDate": "2024-08-3",
-      "summary": "Built image processing software to identify pest species in near-inrared hyperspectral images",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "Developed image processing software using Python to identify and count insect species in hyperspectral images",
+        "Utilized near-infrared hyperspectral imaging and trained a Linear Discriminant Analysis model to classify pixels with 98% accuracy",
+        "Implemented algorithms to identify the species of individual insects, eliminating the need for manual counting and saving thousands of man-hours per year",
+        "Leveraged libraries such as scikit-learn, pandas, and numpy for data processing and machine learning"
+      ]
     },
     {
       "company": "Calvin Shindo Student Venture Fund",
@@ -67,49 +77,13 @@
       "website": "",
       "startDate": "2023-08-21",
       "endDate": "2024-12-15",
-      "summary": "Supporting and investing in University of Hawaii affiliated startups",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Manage a fund of $133,000, supporting early-stage startups affiliated with the University of Hawaii",
+        "Lead a team of 11 associates in sourcing and evaluating investment opportunities, conducting due diligence, and providing strategic guidance to portfolio companies",
+        "Organize meetings, assign roles, and provide mentorship to new team members",
+        "Connect startups with resources and organizations, fostering the growth of the entrepreneurial community"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
