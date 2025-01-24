@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Hawaii’s Emerging Tech Landscape"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-06
+date: 2025-01-23
 published: true
 labels:
 ---
