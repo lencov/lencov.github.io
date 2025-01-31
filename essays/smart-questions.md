@@ -4,10 +4,6 @@ type: essay
 title: "Smart Questions"
 date: 2023-10-15
 published: true
-labels:
-  - Communication
-  - StackOverflow
-  - Software Engineering
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
