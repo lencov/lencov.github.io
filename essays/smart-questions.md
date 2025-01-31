@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Smarter Engineers"
+title: "Smart Questions"
 date: 2023-10-15
 published: true
 labels:
