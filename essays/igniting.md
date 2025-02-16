@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/techmindsmeetup.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/techmindsmeetup.jpeg">
 
 The Tech Minds Meetup was an event hosted by UH to give students the opportunity to network with professionals in the tech industry. They organized it in rounds where students sat a professionals table for the duration of the round and talked with them. I spoke to 5 different professionals at the event.
 
