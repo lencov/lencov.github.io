@@ -73,3 +73,5 @@ Bootstrap handles styling, spacing, and responsiveness without any custom CSS.
 ## Conclusion
 
 UI frameworks like Bootstrap 5 provide clear **time-saving benefits** and **consistent design patterns**, making them valuable for larger or team-based projects. For small, custom sites, raw HTML and CSS may offer greater flexibility with less overhead. The choice depends on the **project’s scope and priorities**—frameworks are tools, not requirements.
+
+Used AI to write this essay
